@@ -3,7 +3,7 @@ import joblib
 import pickle
 import numpy as np
 import pandas as pd
-import xgboost
+# import xgboost
 
 xgb_model = joblib.load('xgb_4f')
 
