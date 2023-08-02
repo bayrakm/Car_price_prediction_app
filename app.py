@@ -4,6 +4,7 @@ import pickle
 import numpy as np
 import pandas as pd
 import xgboost
+import sklearn
 
 xgb_model = joblib.load('xgb_4f')
 
