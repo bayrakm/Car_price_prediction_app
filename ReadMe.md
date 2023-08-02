@@ -24,3 +24,5 @@ requirements.txt
 streamlit run app.py
 
 The app will be available at http://localhost:8501. Adjust the code as needed to use your own model and data.
+
+The app available online https://predictcarprice.streamlit.app/
