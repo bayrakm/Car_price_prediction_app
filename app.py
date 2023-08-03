@@ -15,7 +15,7 @@ st.title("Used Car Price Prediction")
 text = '''This app predicts the market price of a used car based on key attributes like mileage, age, make and model.
          Simply input the details of the car and hit 'Predict' to get an estimated price! 
          The prediction is made using a machine learning model trained on car sale price data.
-         Read more about the project and model training in [this article](https://medium.com/@muhammet/building-a-dynamic-price-prediction-model-tackling-concept-drift-in-automobile-markets-a7b6c52112c2). 
+         Read more about the project and model training in [this article](https://medium.com/@bayrakm/building-a-dynamic-price-prediction-model-tackling-concept-drift-in-automobile-markets-5bec8b26f16b). 
          Try out the app below and see the model in action!
 '''
 st.markdown(text)
